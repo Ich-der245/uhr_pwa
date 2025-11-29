@@ -1,0 +1,26 @@
+{
+  "name": "Uhr",
+  "short_name": "Uhr",
+  "start_url": "/uhr/",
+  "scope": "/uhr/",
+  "display": "fullscreen",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/uhr/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/uhr/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "orientation": "any",
+  "lang": "de",
+  "categories": [
+    "business"
+  ]
+}
